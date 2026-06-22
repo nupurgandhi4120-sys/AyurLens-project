@@ -6,27 +6,27 @@ AyurLens is an AI-powered platform developed for the **Bharat Academix CodeQuest
 
 ## 💡 Problem Statement
 Traditional knowledge regarding medicinal plants is often scattered across multiple sources, leading to several challenges:
-**Identification Gap:** Most people cannot correctly identify medicinal plants[cite: 16].
-**Knowledge Fragmentation:** Information is scattered across multiple sources[cite: 17, 18].
-**Safety Risks:** Misidentification of plants can be risky[cite: 19].
-**Generational Disconnect:** Traditional knowledge is becoming less accessible to younger generations[cite: 20, 23, 24].
+* **Identification Gap:** Most people cannot correctly identify medicinal plants[cite: 16].
+* **Knowledge Fragmentation:** Information is scattered across multiple sources[cite: 17, 18].
+* **Safety Risks:** Misidentification of plants can be risky[cite: 19].
+* **Generational Disconnect:** Traditional knowledge is becoming less accessible to younger generations[cite: 20, 23, 24].
 
 ---
 
 ## 🚀 Key Features
-**Instant AI Identification:** Identify medicinal plants in seconds using advanced image recognition[cite: 31].
-**Verified AYUSH Insights:** Access credible, government-backed information for every plant[cite: 32].
-**Digital Herbal Library:** Browse an extensive database of medicinal uses and precautions[cite: 33].
-**Interactive Learning:** Safely explore botanical knowledge through an AI-powered assistant[cite: 34].
+* **Instant AI Identification:** Identify medicinal plants in seconds using advanced image recognition[cite: 31].
+* **Verified AYUSH Insights:** Access credible, government-backed information for every plant[cite: 32].
+* **Digital Herbal Library:** Browse an extensive database of medicinal uses and precautions[cite: 33].
+* **Interactive Learning:** Safely explore botanical knowledge through an AI-powered assistant[cite: 34].
 
 ---
 
 ## 🛠 Technology Stack
 The platform utilizes a modern, scalable tech stack:
 
-**Frontend:** React 19, JavaScript, Tailwind CSS, HTML 5, and Lucide React[cite: 47, 48, 49, 50, 51, 52].
-**AI & API Integration:** Google Gemini 1.5 Flash API, Plant.id, and Wikipedia[cite: 54, 55, 56, 57].
-**Development & Deployment:** Built with Vite and Node.js [cite: 60, 71][cite_start], and deployed via Netlify[cite: 73].
+* **Frontend:** React 19, JavaScript, Tailwind CSS, HTML 5, and Lucide React[cite: 47, 48, 49, 50, 51, 52].
+* **AI & API Integration:** Google Gemini 1.5 Flash API, Plant.id, and Wikipedia[cite: 54, 55, 56, 57].
+* **Development & Deployment:** Built with Vite and Node.js [cite: 60, 71][cite_start], and deployed via Netlify[cite: 73].
 
 ---
 
@@ -44,10 +44,10 @@ The user journey is designed to be seamless and intuitive:
 
 ## 📈 Future Innovations
 We are continuously looking to expand the platform's capabilities:
-**Enhanced Profiles:** Adding more comprehensive data on uses, dosages, safety, and cultivation tips[cite: 111].
-**Offline Access:** Enabling library access and saved scan history for offline use[cite: 112, 113].
-**Community Features:** Implementing user contributions, favorites, and shared collections[cite: 115, 116, 118].
-**AR Integration:** Introducing AR overlays for plant comparisons and interactive learning modules[cite: 119, 120, 121].
+* **Enhanced Profiles:** Adding more comprehensive data on uses, dosages, safety, and cultivation tips[cite: 111].
+* **Offline Access:** Enabling library access and saved scan history for offline use[cite: 112, 113].
+* **Community Features:** Implementing user contributions, favorites, and shared collections[cite: 115, 116, 118].
+* **AR Integration:** Introducing AR overlays for plant comparisons and interactive learning modules[cite: 119, 120, 121].
 
 ---
 
